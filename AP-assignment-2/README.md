@@ -19,4 +19,6 @@ The classes `MainCLI`, `AdminCLI`, `CustomerCLI` provide a CLI for the app.
 
 The program's entry point is `Main`, which calls `MainCLI` to start the CLI interface.
 
+
+## Spec Sheet
 Please check out [`problem-statement.pdf`](https://github.com/Zynade/CSE201-assignments/tree/main/AP-assignment-2/problem-statement.pdf) for the detailed product requirement.
