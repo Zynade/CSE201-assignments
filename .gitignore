@@ -1,5 +1,8 @@
 ### IntelliJ IDEA ###
-out/
+/AP-assignment-1/out/
+/AP-assignment-1/.idea/
+/AP-assignment-2/out/
+/AP-assignment-2/.idea/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
