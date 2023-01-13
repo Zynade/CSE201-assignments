@@ -10,4 +10,4 @@ Next, open each directory individually as a project in an IDE like IntelliJ IDEA
 
 # Note
 
-There were only assignment submissions in Monsoon 2022. There was also a project component, for which I coded up a [Tank Stars clone](https://githhttps://github.com/Zynade/Tank-Starsub.com/Zynade/Tank-Stars). Check it out [here!](https://github.com/Zynade/Tank-Stars)
+There were only two assignment submissions in Monsoon 2022. There was also a project component, for which I coded up a [Tank Stars clone](https://githhttps://github.com/Zynade/Tank-Starsub.com/Zynade/Tank-Stars). Check it out [here!](https://github.com/Zynade/Tank-Stars)
